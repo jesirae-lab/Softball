@@ -36,7 +36,7 @@ export default function StandingsTable({ standings, compact = false }: Props) {
               <td className="px-4 py-3">
                 <div className="flex items-center gap-2">
                   <span
-                    className="w-3 h-3 rounded-full shrink-0"
+                    className="w-3 h-3 rounded-full shrink-0 ring-1 ring-black/10"
                     style={{ backgroundColor: row.team.color }}
                   />
                   <span className="font-semibold text-gray-900">

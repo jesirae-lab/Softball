@@ -370,7 +370,7 @@ export default function AdminSchedulePage() {
                   <div className="flex-1 text-sm">
                     <div className="flex items-center gap-2">
                       <span
-                        className="w-2.5 h-2.5 rounded-full"
+                        className="w-2.5 h-2.5 rounded-full ring-1 ring-black/10"
                         style={{ backgroundColor: game.awayTeam?.color }}
                       />
                       <span className="font-medium">
@@ -385,7 +385,7 @@ export default function AdminSchedulePage() {
                     </div>
                     <div className="flex items-center gap-2 mt-1">
                       <span
-                        className="w-2.5 h-2.5 rounded-full"
+                        className="w-2.5 h-2.5 rounded-full ring-1 ring-black/10"
                         style={{ backgroundColor: game.homeTeam?.color }}
                       />
                       <span className="font-medium">

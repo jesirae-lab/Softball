@@ -3,7 +3,7 @@
     "id": "team-1",
     "name": "Thunderbolts",
     "shortName": "TBL",
-    "color": "#2563eb",
+    "color": "#1d4ed8",
     "contactEmail": "thunderbolts@softballleague.com",
     "managerName": "Alex Rivera",
     "players": 12
@@ -12,7 +12,7 @@
     "id": "team-2",
     "name": "Diamond Kings",
     "shortName": "DKG",
-    "color": "#7c3aed",
+    "color": "#6b7280",
     "contactEmail": "diamondkings@softballleague.com",
     "managerName": "Sam Chen",
     "players": 13
@@ -21,7 +21,7 @@
     "id": "team-3",
     "name": "Sluggers United",
     "shortName": "SLU",
-    "color": "#dc2626",
+    "color": "#e5e7eb",
     "contactEmail": "sluggers@softballleague.com",
     "managerName": "Jordan Lee",
     "players": 11
@@ -30,7 +30,7 @@
     "id": "team-4",
     "name": "Home Run Heroes",
     "shortName": "HRH",
-    "color": "#16a34a",
+    "color": "#dc2626",
     "contactEmail": "homeruns@softballleague.com",
     "managerName": "Morgan Taylor",
     "players": 12
@@ -39,7 +39,7 @@
     "id": "team-5",
     "name": "Wild Pitches",
     "shortName": "WPT",
-    "color": "#ea580c",
+    "color": "#ec4899",
     "contactEmail": "wildpitches@softballleague.com",
     "managerName": "Casey Williams",
     "players": 11

@@ -66,7 +66,7 @@ export default function DashboardPage() {
               </div>
               <div className="flex items-center gap-2 justify-center">
                 <span
-                  className="w-4 h-4 rounded-full"
+                  className="w-4 h-4 rounded-full ring-1 ring-black/10"
                   style={{ backgroundColor: leader.team.color }}
                 />
                 <span className="font-bold text-lg">{leader.team.name}</span>
@@ -118,7 +118,7 @@ export default function DashboardPage() {
                     return t ? (
                       <div key={tid} className="flex items-center gap-2 py-0.5 text-sm">
                         <span
-                          className="w-2 h-2 rounded-full"
+                          className="w-2 h-2 rounded-full ring-1 ring-black/10"
                           style={{ backgroundColor: t.color }}
                         />
                         <span>{t.name}</span>
@@ -159,7 +159,7 @@ export default function DashboardPage() {
                     >
                       <div className="flex items-center gap-1.5">
                         <span
-                          className="w-2 h-2 rounded-full"
+                          className="w-2 h-2 rounded-full ring-1 ring-black/10"
                           style={{ backgroundColor: away?.color }}
                         />
                         {away?.name}
@@ -175,7 +175,7 @@ export default function DashboardPage() {
                     >
                       <div className="flex items-center gap-1.5">
                         <span
-                          className="w-2 h-2 rounded-full"
+                          className="w-2 h-2 rounded-full ring-1 ring-black/10"
                           style={{ backgroundColor: home?.color }}
                         />
                         {home?.name}

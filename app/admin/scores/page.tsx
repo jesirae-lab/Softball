@@ -185,14 +185,14 @@ export default function AdminScoresPage() {
                 <div className="flex-1">
                   <div className="flex items-center gap-2 text-sm">
                     <span
-                      className="w-2.5 h-2.5 rounded-full"
+                      className="w-2.5 h-2.5 rounded-full ring-1 ring-black/10"
                       style={{ backgroundColor: game.awayTeam?.color }}
                     />
                     <span className="font-medium">{game.awayTeam?.name}</span>
                     <span className="text-gray-400 text-xs">(Away)</span>
                     <span className="mx-2 text-gray-300">vs</span>
                     <span
-                      className="w-2.5 h-2.5 rounded-full"
+                      className="w-2.5 h-2.5 rounded-full ring-1 ring-black/10"
                       style={{ backgroundColor: game.homeTeam?.color }}
                     />
                     <span className="font-medium">{game.homeTeam?.name}</span>

@@ -71,7 +71,7 @@ export default function GameCard({ game, teams, showDate = true }: Props) {
           >
             <div className="flex items-center gap-2 min-w-0">
               <span
-                className="w-2.5 h-2.5 rounded-full shrink-0"
+                className="w-2.5 h-2.5 rounded-full shrink-0 ring-1 ring-black/10"
                 style={{ backgroundColor: away.color }}
               />
               <span className="truncate text-sm">{away.name}</span>
@@ -99,7 +99,7 @@ export default function GameCard({ game, teams, showDate = true }: Props) {
           >
             <div className="flex items-center gap-2 min-w-0">
               <span
-                className="w-2.5 h-2.5 rounded-full shrink-0"
+                className="w-2.5 h-2.5 rounded-full shrink-0 ring-1 ring-black/10"
                 style={{ backgroundColor: home.color }}
               />
               <span className="truncate text-sm">{home.name}</span>

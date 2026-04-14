@@ -36,7 +36,7 @@ export default function SchedulePage() {
           {teams.map((t) => (
             <div key={t.id} className="flex items-center gap-1.5 text-sm">
               <span
-                className="w-3 h-3 rounded-full"
+                className="w-3 h-3 rounded-full ring-1 ring-black/10"
                 style={{ backgroundColor: t.color }}
               />
               <span className="font-medium">{t.name}</span>

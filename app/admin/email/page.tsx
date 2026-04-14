@@ -179,7 +179,7 @@ export default function AdminEmailPage() {
           {selectedTeam && (
             <div className="mt-2 flex items-center gap-2 text-sm text-gray-600">
               <span
-                className="w-2.5 h-2.5 rounded-full"
+                className="w-2.5 h-2.5 rounded-full ring-1 ring-black/10"
                 style={{ backgroundColor: selectedTeam.color }}
               />
               <span>

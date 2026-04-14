@@ -56,7 +56,7 @@ export default function TeamsPage() {
                   <div>
                     <div className="flex items-center gap-2">
                       <span
-                        className="w-4 h-4 rounded-full"
+                        className="w-4 h-4 rounded-full ring-1 ring-black/10"
                         style={{ backgroundColor: row.team.color }}
                       />
                       <h2 className="font-bold text-lg text-gray-900">
