@@ -1,46 +1,46 @@
 [
   {
     "id": "team-1",
-    "name": "Thunderbolts",
-    "shortName": "TBL",
+    "name": "Blue",
+    "shortName": "BLU",
     "color": "#1d4ed8",
-    "contactEmail": "thunderbolts@softballleague.com",
+    "contactEmail": "blue@softballleague.com",
     "managerName": "Alex Rivera",
     "players": 12
   },
   {
     "id": "team-2",
-    "name": "Diamond Kings",
-    "shortName": "DKG",
+    "name": "Gray",
+    "shortName": "GRY",
     "color": "#6b7280",
-    "contactEmail": "diamondkings@softballleague.com",
+    "contactEmail": "gray@softballleague.com",
     "managerName": "Sam Chen",
     "players": 13
   },
   {
     "id": "team-3",
-    "name": "Sluggers United",
-    "shortName": "SLU",
+    "name": "White",
+    "shortName": "WHT",
     "color": "#e5e7eb",
-    "contactEmail": "sluggers@softballleague.com",
+    "contactEmail": "white@softballleague.com",
     "managerName": "Jordan Lee",
     "players": 11
   },
   {
     "id": "team-4",
-    "name": "Home Run Heroes",
-    "shortName": "HRH",
+    "name": "Red",
+    "shortName": "RED",
     "color": "#dc2626",
-    "contactEmail": "homeruns@softballleague.com",
+    "contactEmail": "red@softballleague.com",
     "managerName": "Morgan Taylor",
     "players": 12
   },
   {
     "id": "team-5",
-    "name": "Wild Pitches",
-    "shortName": "WPT",
+    "name": "Pink",
+    "shortName": "PNK",
     "color": "#ec4899",
-    "contactEmail": "wildpitches@softballleague.com",
+    "contactEmail": "pink@softballleague.com",
     "managerName": "Casey Williams",
     "players": 11
   }
